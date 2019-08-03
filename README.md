@@ -1,4 +1,4 @@
-# oracle_oj
+# A Project (SQL - ORACLE)
 
 Background:  The Shandong Music Festival (SMF) is a non-profit organization that conducts an annual music festival. SMF understands that you are quite talented at developing database applications and so wants you to build a system for them. The Shandong Music Festival has been very successful on the Shandong music scene for some time. Each summer it offers many different musical concerts at various locations in Zibo and nearby cities. These concerts have various types of musicians and musical styles providing entertainment. The festival would like you to develop a database system to help them conduct their business which is briefly described below.  
  
